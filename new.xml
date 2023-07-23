@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <NSF>
+    <name>Aleksandr</name>
+    <surname>Yakubouski</surname>
+    <father_name>Igor</father_name>
+  </NSF>
+  <age>26</age>
+  <pets>1</pets>
+  <desired_salary>1400$</desired_salary>
+</root>
